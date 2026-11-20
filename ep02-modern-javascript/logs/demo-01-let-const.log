@@ -1,0 +1,5 @@
+JavaScript Master 3
+[ 'Learn JS', 'Ship Ep 2' ]
+TypeError: Assignment to constant variable.
+var: [ 3, 3, 3 ]
+let: [ 0, 1, 2 ]
