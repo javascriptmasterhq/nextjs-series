@@ -1,0 +1,5 @@
+notes: [ 'Learn JS', 'Ship Ep 2', 'Oops' ]
+original: [ 'Learn JS', 'Ship Ep 2' ]
+updated:  [ 'Learn JS', 'Ship Ep 2', 'Read docs' ]
+same array? false
+false true

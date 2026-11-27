@@ -1,0 +1,6 @@
+$ node -v
+v24.22.1
+$ npm -v
+11.21.1
+$ npx next --version
+Next.js v16.4.6
